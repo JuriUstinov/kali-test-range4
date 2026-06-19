@@ -13,7 +13,7 @@ hosts:
 
   - name: home
     base_box:
-      image: kali-linux-2026.1-modified
+      image: kali
       mgmt_user: debian
     flavor: m1.xlarge
 
